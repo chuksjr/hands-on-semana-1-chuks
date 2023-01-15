@@ -1,0 +1,7 @@
+
+f	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó ß…
+r	java:S116	"XRename this field "emission_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„†¯Äÿÿÿÿÿ
+o
+java:S1210K"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ÅñØ–
+h	java:S100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨åù©úÿÿÿÿ
+c	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó ß…
